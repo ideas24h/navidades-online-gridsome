@@ -5,10 +5,10 @@ class TailwindExtractor {
 }
 
 module.exports = {
-  siteName: 'A blog starter for Gridsome',
-  siteDescription: "Bleda is a blog starter kit for Gridsome, the Vue.js static site generator. It's inspired by Attila for Ghost, and styled with Tailwind CSS.",
+  siteName: 'Navidades Online',
+  siteDescription: "Navidad is Coming. Ideas para decorar tu Navidad",
   siteUrl: 'https://gridsome-starter-bleda.netlify.com',
-  titleTemplate: `%s | Bleda`,
+  titleTemplate: `%s | Navidad is coming`,
   icon: 'src/favicon.png',
 
   transformers: {
@@ -44,7 +44,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-135446199-1',
+        id: 'UA-147463206-1',
       },
     },
     {
