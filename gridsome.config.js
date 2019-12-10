@@ -48,6 +48,14 @@ module.exports = {
       },
     },
     {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-PR6S3DZ',
+        enabled: true,
+        debug: true
+      }
+    },
+    {
       use: '@gridsome/plugin-sitemap',
       options: {
         cacheTime: 600000, // default
