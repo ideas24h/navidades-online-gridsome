@@ -5,8 +5,12 @@ link: 'https://amzn.to/2HUrFz3'
 cover: >-
   /images/uploads/713y2uiG3AL._SX679__qlwkx1.jpg
 excerpt: 'Cadena de luz impermeable blanco cálido Adorno navideño 25,7 metros'
+description: 'Cadena de luz impermeable blanco cálido Adorno navideño 25,7 metros'
 date: 2019-09-08T17:55:07.763Z
 weekPrice: '€19,99'
+author: 'Navidades online'
+fullscreen: true
+slug: 'cadena-de-luces-ip44-impermeable-salcar-25-7m-360-leds-led-luz-cadena-ligera-navidad-led-cadena-luminosa-con-8-modos-led-decoración-interior-exterior-blanco-cálido-clase-de-eficiencia-energética-a'
 ---
 Cadena de Luces IP44 Impermeable SALCAR 25,7m 360 Leds , LED Luz Cadena Ligera Navidad, Led Cadena Luminosa con 8 Modos, Led Decoración Interior Exterior(Blanco cálido) \[Clase de eficiencia energética A++]
 
